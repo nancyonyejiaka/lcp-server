@@ -1,0 +1,30 @@
+{
+  "name": "lcp-server",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web Server for LCP application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nancyonyejiaka/lcp-server.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HHTP",
+    "Web",
+    "Development"
+  ],
+  "author": "Nancy Onyejiaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nancyonyejiaka/lcp-server/issues"
+  },
+  "homepage": "https://github.com/nancyonyejiaka/lcp-server#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
